@@ -1,2 +1,4 @@
 # Dev-ops
-ter uma conta no banco com trilhoes
+ter uma conta no banco
+com trilhoes de dolares
+
